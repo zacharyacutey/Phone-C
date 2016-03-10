@@ -4,7 +4,12 @@
 #define scoperes ::
 #define inc ++
 #define dec --
-
+#define leftpar (
+#define rightpar )
+#define leftbrack [
+#define rightbrack ]
+#define leftbrace {
+#define rightbrace }
 /* Standard C++ versions:
 and &&
 or ||
