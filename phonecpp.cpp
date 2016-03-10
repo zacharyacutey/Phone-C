@@ -2,6 +2,9 @@
 //Strings and preprocessors are not gonna happen, along with characters
 //Put this at the top of the C++ File
 #define scoperes ::
+#define inc ++
+#define dec --
+
 /* Standard C++ versions:
 and &&
 or ||
