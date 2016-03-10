@@ -6,10 +6,20 @@
 #define dec --
 #define leftpar (
 #define rightpar )
-#define leftbrack [
-#define rightbrack ]
+#define leftbracket [
+#define rightbracket ]
 #define leftbrace {
 #define rightbrace }
+#define leftangle  <
+#define rightangle >
+#define dot .
+#define arrow ->
+#define ref &
+#define pos +
+#define neg -
+#define mul *
+#define div /
+#define mod %
 /* Standard C++ versions:
 and &&
 or ||
