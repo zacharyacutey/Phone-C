@@ -35,20 +35,16 @@
 #define colon :
 #define semicolon ;
 #define comma ,
-
-// Test
-#include <iostream>
-using namespace std;
-int main leftpar string args leftbracket rightbracket rightpar
-leftbrace
-  cout lefts 3 neg 2 lefts endl semicolon
-  return 0 semicolon
-rightbrace
-/* Standard C++ versions:
-and &&
-or ||
-xor ^
-bitand a & b
-bitor |
-compl ~
-*/
+#define zero 0
+#define one 1
+#define two 2
+#define three 3
+#define four 4
+#define five 5
+#define six 6
+#define seven 7
+#define eight 8
+#define nine 9
+#define quote(a) #a
+int cat(int l,int r){return l*10+r;}
+//That is ONLY IF THEY HAVE PARENTHESES
