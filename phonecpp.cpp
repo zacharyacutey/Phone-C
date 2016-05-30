@@ -145,3 +145,4 @@ char tochar(char* t){return t[0];}
 #define newline "\n"
 #define newrine "\r"
 #define tab "\t"
+#define space " "
