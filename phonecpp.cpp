@@ -1,4 +1,3 @@
-//Some of this C is from C++, so..
 using namespace std;
 int cat(int l,int r){return l*10+r;}
 char tochar(char* t){return t[0];}
